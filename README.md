@@ -1,3 +1,4 @@
+![Project Banner](images/project_.png)
 # ![](images/python_gif.gif)  Classification-models-templates in Python  <img src="images/sanke.gif" alt="Alt Text" width="4.5%">
 This repository contains a collection of template codes for various classification models in machine learning.Feel free to explore, use, and modify these templates in your machine learning projects
 ## Machine Learning classification Model Templates &nbsp;<img src="images/ml_gif.gif" alt="Alt Text" width="4.5%">
