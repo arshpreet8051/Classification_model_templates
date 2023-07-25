@@ -1,4 +1,4 @@
-# <img src="images/icons_github.gif" alt="Alt Text" width="4%">  Classification-models-templates in Python  <img src="images/mind_map.gif" alt="Alt Text" width="4.5%">
+# <img src="images/features.png" alt="Alt Text" width="4%">  Classification-models-templates in Python  <img src="images/mind_map.gif" alt="Alt Text" width="4.5%">
 This repository contains a collection of template codes for various classification models in machine learning.Feel free to explore, use, and modify these templates in your machine learning projects
 ## Machine Learning classification Model Templates &nbsp;<img src="images/ml_gif.gif" alt="Alt Text" width="4.5%">
 
@@ -7,9 +7,9 @@ This repository contains a collection of template codes for various classificati
 ## Over-view <img src="images/overview.gif" alt="Alt Text" width="4.5%">
 This repository contains a collection of template codes for various classification models in machine learning. These templates serve as starting points and provide a structured foundation for implementing classification algorithms in your projects.
 
-## Features
+## Features 😉
 - Templates for popular classification algorithms:
-   - # Logistic Regression &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="images/linear_classification.png" alt="Alt Text" width="5%">](Linear_classification.py) <sup><sub><sup>[<span style="font-size: smaller;">click me</span>](Linear_classification.py)</sup></sub></sup>
+   - # Logistic Regression &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="images/map.gif" alt="Alt Text" width="5%">](Linear_classification.py) <sup><sub><sup>[<span style="font-size: smaller;">click me</span>](Linear_classification.py)</sup></sub></sup>
     - # K Nearest Neighbours KNN  &nbsp; [<img src="images/graphj_report.png" alt="Alt Text" width="5%">](Multiple_classification.py) <sup><sub><sup>[<span style="font-size: smaller;">click me</span>](Multiple_classification.py)</sup></sub></sup>
     - # Support Vector Machine (SVM) &nbsp; [<img src="images/ml_icon.png" alt="Alt Text" width="4%">](Polynomial_classification.py) <sup><sub><sup>[<span style="font-size: smaller;">click me</span>](Polynomial_classification.py)</sup></sub></sup>
     - #  Kernel SVM  &nbsp; [<img src="images/brain_book.png" alt="Alt Text" width="5%">](Support_vector_classification.py) <sup><sub><sup>[<span style="font-size: smaller;">click me</span>](Support_vector_classification.py)</sup></sub></sup>
