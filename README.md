@@ -10,8 +10,8 @@ This repository contains a collection of template codes for various classificati
 ## Features
 - Templates for popular classification algorithms:
    - # Logistic Regression &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="images/linear_classification.png" alt="Alt Text" width="5%">](Linear_classification.py) <sup><sub><sup>[<span style="font-size: smaller;">click me</span>](Linear_classification.py)</sup></sub></sup>
-    - # K Nearest Neighbours KNN  &nbsp; [<img src="images/graph.png" alt="Alt Text" width="5%">](Multiple_classification.py) <sup><sub><sup>[<span style="font-size: smaller;">click me</span>](Multiple_classification.py)</sup></sub></sup>
-    - # Support Vector Machine (SVM) &nbsp; [<img src="images/graphj_report.png" alt="Alt Text" width="6.5%">](Polynomial_classification.py) <sup><sub><sup>[<span style="font-size: smaller;">click me</span>](Polynomial_classification.py)</sup></sub></sup>
+    - # K Nearest Neighbours KNN  &nbsp; [<img src="images/graphj_report.png" alt="Alt Text" width="5%">](Multiple_classification.py) <sup><sub><sup>[<span style="font-size: smaller;">click me</span>](Multiple_classification.py)</sup></sub></sup>
+    - # Support Vector Machine (SVM) &nbsp; [<img src="images/ml_icon.png" alt="Alt Text" width="4%">](Polynomial_classification.py) <sup><sub><sup>[<span style="font-size: smaller;">click me</span>](Polynomial_classification.py)</sup></sub></sup>
     - #  Kernel SVM  &nbsp; [<img src="images/brain_book.png" alt="Alt Text" width="5%">](Support_vector_classification.py) <sup><sub><sup>[<span style="font-size: smaller;">click me</span>](Support_vector_classification.py)</sup></sub></sup>
     - # Decision tree Classification [<img src="images/decision.png" alt="Alt Text" width="6%">](Decision_tree_classification.py) <sup><sub><sup>[<span style="font-size: smaller;">click me</span>](Decision_tree_classification.py)</sup></sub></sup>
     - # Random forest classification  &nbsp; [<img src="images/forest.png" alt="Alt Text" width="5%">](Random_forest.py) <sup><sub><sup>[<span style="font-size: smaller;">click me</span>](Random_forest.py)</sup></sub></sup>
