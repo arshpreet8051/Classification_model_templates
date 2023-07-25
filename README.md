@@ -14,7 +14,8 @@ This repository contains a collection of template codes for various classificati
     - # Support Vector Machine (SVM) &nbsp; [<img src="images/ml_icon.png" alt="Alt Text" width="4%">](SVM.py) <sup><sub><sup>[<span style="font-size: smaller;">click me</span>](SVM.py)</sup></sub></sup>
     - #  Kernel SVM  &nbsp; [<img src="images/brain_book.png" alt="Alt Text" width="5%">](Kernel_SVM.py) <sup><sub><sup>[<span style="font-size: smaller;">click me</span>](Kernel_SVM.py)</sup></sub></sup>
     - # Decision tree Classification [<img src="images/decision.png" alt="Alt Text" width="6%">](Decision_tree.py) <sup><sub><sup>[<span style="font-size: smaller;">click me</span>](Decision_tree.py)</sup></sub></sup>
-    - # Random forest classification  &nbsp; [<img src="images/forest.png" alt="Alt Text" width="5%">](Random_Forest.py) <sup><sub><sup>[<span style="font-size: smaller;">click me</span>](Random_Forest.py)</sup></sub></sup>
+    - # Random forest Classification  &nbsp; [<img src="images/forest.png" alt="Alt Text" width="5%">](Random_Forest.py) <sup><sub><sup>[<span style="font-size: smaller;">click me</span>](Random_Forest.py)</sup></sub></sup>
+    - # Naive Base Classification  &nbsp; [<img src="images/probability.png" alt="Alt Text" width="5%">](Naive_bayes.py) <sup><sub><sup>[<span style="font-size: smaller;">click me</span>](Naive_bayes.py)</sup></sub></sup>
 
     
 - Clear instructions and code comments for easy understanding
